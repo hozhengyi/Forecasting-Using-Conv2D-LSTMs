@@ -12,8 +12,6 @@
 ## Data files
 The data used in this work is provided by the National Solar Radiation Database (NSRDB) and can be downloaded via API requests. Detailed download instructions are provided [here](https://nsrdb.nrel.gov/data-sets/api-instructions.html). Download the relative humidity values over mainland United States from 1998 to 2019, totalling 192720, and extract relative humidity values from Station ID: 878848 (GMT -6). 
 
-The following file contains the training/validation data used in this work.
-
 ## Scripts
 The following list is a description of each Python script contained in this repository.
 `multivar_v3.csv` contains the results of the pure multivariate run.  
