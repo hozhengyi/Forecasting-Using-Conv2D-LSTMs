@@ -16,15 +16,15 @@ The following file contains the training/validation data used in this work.
 
 ## Scripts
 The following list is a description of each Python script contained in this repository.
-`multivar_v3.csv` contains the results of the pure multivariate run.
-`singlevar_v0.csv` contains the results of the pure univariate run.
-`spatio_v0.csv` contains the results of the spatiotemporal-multivariate run.
-`multivar_v3.png` contains the model architecture overview for the multivariate model.
-`singlevar_v0.png` contains the model architecture overview for the univariate model.
-`spatio_v0.png` contains the model architecture overview for the spatiotemporal-multivariate model.
-`multivar_model.ipynb` contains the code used for the multivariate run.
-`singlevar_model.ipynb` contains the code used for the univariate run.
-`spatio_model.ipynb` contains the code used for the spatiotemporal-multivariate run.
+`multivar_v3.csv` contains the results of the pure multivariate run.  
+`singlevar_v0.csv` contains the results of the pure univariate run.  
+`spatio_v0.csv` contains the results of the spatiotemporal-multivariate run.  
+`multivar_v3.png` contains the model architecture overview for the multivariate model.  
+`singlevar_v0.png` contains the model architecture overview for the univariate model.  
+`spatio_v0.png` contains the model architecture overview for the spatiotemporal-multivariate model.  
+`multivar_model.ipynb` contains the code used for the multivariate run.  
+`singlevar_model.ipynb` contains the code used for the univariate run.  
+`spatio_model.ipynb` contains the code used for the spatiotemporal-multivariate run.  
 
 # Running
 1. Download the dependencies using `pip install`
